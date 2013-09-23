@@ -16,8 +16,8 @@
 
 - (void)viewDidLoad
 {
+    // 日本語のてすと
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning
